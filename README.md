@@ -1,6 +1,6 @@
 <h1>Howdy Techies 👋</h1>
 <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/456/275/datas/original.gif" width="100" style="max-width:100%">
-<p>I am Anushka, currently pursuing Bachelor of Technology with a specialization of Computer Science. I am aspiring web developer skilled in frontend(HTML, Cascading Style Sheets, Bootstrap, JavaScript, jQuery, ReactJS), backend(NodeJS, ExpressJS, OAuth, PassportJS) and databases(SQL and MongoDB). I am looking forward to contribute to open sources in the near future.</p><br>
+<p>I am Anushka, currently pursuing Bachelor of Technology with a specialization of Computer Science. I am aspiring web developer skilled in frontend, backend and databases. I am looking forward to contribute to more open sources in the near future.</p><br>
 
 <h2>Programming Languages</h2>
 <table><tr>
